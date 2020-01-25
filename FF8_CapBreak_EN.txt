@@ -1,0 +1,17 @@
+#Break HP/DMG Cap Limits
+#DLL to Hext port by botik, onefourthree
+
+#Offset all addresses
++400000
+
+#Break HP Limit GF
+95E6D = 81 FA FF FF 00 00
+95E75 = BA FF FF 00 00
+
+#Break HP Limit Party
+95A1A = 81 FA FF FF 00 00
+95A22 = BA FF FF 00 00
+
+#Break Damage Limit
+91137 = 81 C1 FF FF 00 00
+
