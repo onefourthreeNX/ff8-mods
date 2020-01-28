@@ -10,48 +10,27 @@ https://forums.qhimm.com/index.php?topic=16327
 ## ff8-break-damage-limit
 Max damage increased to 65k instead of 9999; affects your group and opponents too. Original mod on PC by: gaaasstly 
 
-Forum Thread:
+Forum Thread: https://forums.qhimm.com/index.php?topic=15354
 
-forums.qhimm.com/index.php?topic=15354
-
-
-PC offsets here:
-
-http://forums.qhimm.com/index.php?topic=15354.msg250751#msg250751
+PC offsets here: https://forums.qhimm.com/index.php?topic=15354.msg250751#msg250751
 
 ## ff8-break-hp-limit-gf
 Max hp cap for GFs increased to 32k from 9999. Original mod on PC by: gaaasstly 
 
-Forum Thread:
+Forum Thread: https://forums.qhimm.com/index.php?topic=15354
 
-forums.qhimm.com/index.php?topic=15354
-
-
-PC offsets here:
-
-http://forums.qhimm.com/index.php?topic=15354.msg250751#msg250751
+PC offsets here: https://forums.qhimm.com/index.php?topic=15354.msg250751#msg250751
 
 ## ff8-break-hp-limit-party
 Max hp cap for your Party increased to 32k from 9999. Original mod on PC by: gaaasstly 
+Forum Thread: https://forums.qhimm.com/index.php?topic=15354
 
-Forum Thread:
-
-forums.qhimm.com/index.php?topic=15354
-
-
-PC offsets here:
-
-http://forums.qhimm.com/index.php?topic=15354.msg250751#msg250751
+PC offsets here: https://forums.qhimm.com/index.php?topic=15354.msg250751#msg250751
 
 ## ff8-limitless-magic-battle
 You won't lose magic from your inventory when you cast it in battle. Original mod on PC by: gaaasstly 
 
-Forum Thread:
+Forum Thread: https://forums.qhimm.com/index.php?topic=15354
 
-forums.qhimm.com/index.php?topic=15354
-
-
-PC offsets here:
-
-http://forums.qhimm.com/index.php?topic=15354.msg250751#msg250751
+PC offsets here: https://forums.qhimm.com/index.php?topic=15354.msg250751#msg250751
 
