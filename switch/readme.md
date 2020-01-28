@@ -23,6 +23,7 @@ PC offsets here: https://forums.qhimm.com/index.php?topic=15354.msg250751#msg250
 
 ## ff8-break-hp-limit-party
 Max hp cap for your Party increased to 32k from 9999. Original mod on PC by: gaaasstly 
+
 Forum Thread: https://forums.qhimm.com/index.php?topic=15354
 
 PC offsets here: https://forums.qhimm.com/index.php?topic=15354.msg250751#msg250751
